@@ -1,2 +1,2 @@
 # nextjs-projects
-Several project ideas implemented sing Next.js
+Several project ideas implemented using Next.js
